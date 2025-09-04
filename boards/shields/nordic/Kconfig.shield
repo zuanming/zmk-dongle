@@ -1,2 +1,0 @@
-config NORDIC
-    def_bool $(shields_list_contains,my_keyboard_dongle)
